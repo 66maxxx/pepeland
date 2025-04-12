@@ -1,0 +1,52 @@
+[19:34:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:34:34] [ServerMain/INFO]: Loaded 1290 recipes
+[19:34:34] [ServerMain/INFO]: Loaded 1399 advancements
+[19:34:35] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[19:34:35] [Server thread/INFO]: Loading properties
+[19:34:35] [Server thread/INFO]: Default game type: SURVIVAL
+[19:34:35] [Server thread/INFO]: Generating keypair
+[19:34:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:34:35] [Server thread/INFO]: Using epoll channel type
+[19:34:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:34:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:34:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:34:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:34:35] [Server thread/INFO]: Preparing level "world"
+[19:34:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:34:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:34:39] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[19:34:39] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[19:34:39] [Server thread/INFO]: Time elapsed: 1096 ms
+[19:34:39] [Server thread/INFO]: Done (4.133s)! For help, type "help"
+[19:35:36] [Server thread/INFO]: 55maxx[/127.251.40.37:33489] logged in with entity id 11 at (-1322.6531915252212, 65.0, 1412.9209686595848)
+[19:35:36] [Server thread/INFO]: 55maxx joined the game
+[19:40:16] [Server thread/INFO]: 55maxx has made the advancement [Not Today, Thank You]
+[19:44:05] [Server thread/INFO]: Joako[/127.81.240.165:60769] logged in with entity id 2143 at (-51.5, 66.0, 54.5)
+[19:44:05] [Server thread/INFO]: Joako joined the game
+[19:44:05] [Server thread/WARN]: UUID of added entity already exists: cfj['Chicken'/2155, l='ServerLevel[world]', x=-96.90, y=72.00, z=84.17]
+[19:44:05] [Server thread/WARN]: UUID of added entity already exists: cfv['Pig'/2160, l='ServerLevel[world]', x=-51.54, y=65.00, z=15.79]
+[19:44:11] [Server thread/INFO]: Joako lost connection: Disconnected
+[19:44:11] [Server thread/INFO]: Joako left the game
+[19:52:38] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[19:52:38] [Server thread/INFO]: 55maxx left the game
+[19:53:27] [Server thread/INFO]: 55maxx[/127.251.40.37:47889] logged in with entity id 3733 at (-1286.300000011921, 1.0, 1327.699999988079)
+[19:53:28] [Server thread/INFO]: 55maxx joined the game
+[19:54:06] [Server thread/INFO]: Joako[/127.81.240.165:59741] logged in with entity id 4066 at (-51.5, 66.0, 54.5)
+[19:54:06] [Server thread/INFO]: Joako joined the game
+[19:54:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-56, y=67, z=56}
+[19:54:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-57, y=68, z=56}
+[19:54:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-56, y=69, z=56}
+[19:54:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-57, y=68, z=56}
+[19:54:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-56, y=69, z=56}
+[19:54:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-57, y=68, z=56}
+[19:54:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-57, y=67, z=56}
+[19:54:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-57, y=67, z=56}
+[19:55:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-56, y=67, z=56}
+[19:56:08] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[19:56:08] [Server thread/INFO]: 55maxx left the game
+[19:57:36] [Server thread/INFO]: 55maxx[/127.251.40.37:35519] logged in with entity id 5364 at (-1292.1035370379675, -47.0, 1407.5152842191408)
+[19:57:36] [Server thread/INFO]: 55maxx joined the game
+[19:57:51] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[19:57:51] [Server thread/INFO]: 55maxx left the game
+[19:58:35] [Server thread/INFO]: Joako has made the advancement [Stone Age]
+[19:59:48] [Server thread/INFO]: Joako has made the advancement [Getting an Upgrade]
