@@ -5983,6 +5983,30 @@
     },
     "done": true
   },
+  "charm:item_restocking/restocked_current_item": {
+    "criteria": {
+      "restocked_current_item": "2025-05-24 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-24 19:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-24 19:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-24 19:39:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_or_cobbled_andesite_stonecutting": {
     "criteria": {
       "has_andesite_or_cobbled_andesite": "2025-05-24 19:48:05 +0000"
@@ -6043,12 +6067,6 @@
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_pickaxe_repairing": {
-    "criteria": {
-      "has_diamond_pickaxe": "2025-05-24 19:53:56 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-24 19:48:05 +0000"
@@ -6097,12 +6115,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-05-24 19:51:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-24 19:48:05 +0000"
@@ -6112,12 +6124,6 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-24 19:48:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-05-24 19:51:56 +0000"
     },
     "done": true
   },
@@ -6163,12 +6169,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-05-24 19:39:53 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_or_cobbled_andesite_stonecutting": {
     "criteria": {
       "has_andesite_or_cobbled_andesite": "2025-05-24 19:48:05 +0000"
@@ -6190,18 +6190,6 @@
   "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-24 19:48:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-05-24 19:39:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-05-24 19:39:53 +0000"
     },
     "done": true
   },
@@ -6301,15 +6289,27 @@
     },
     "done": true
   },
-  "charm:item_restocking/restocked_current_item": {
-    "criteria": {
-      "restocked_current_item": "2025-05-24 19:38:35 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_or_andesite_pavers_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_pavers": "2025-05-24 19:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-24 19:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-24 19:51:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-05-24 19:53:56 +0000"
     },
     "done": true
   },
