@@ -6785,15 +6785,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "aether:recipes/combat/diamond_gloves_repairing": {
     "criteria": {
-      "has_blaze_powder": "2025-05-24 21:52:39 +0000"
+      "has_diamond_gloves": "2025-05-24 21:47:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-05-24 21:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-24 21:52:39 +0000"
     },
     "done": true
   },
@@ -6806,12 +6812,6 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-05-24 21:52:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_gloves_repairing": {
-    "criteria": {
-      "has_diamond_gloves": "2025-05-24 21:47:55 +0000"
     },
     "done": true
   },
