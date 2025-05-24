@@ -1,0 +1,26 @@
+{
+	id: "45b1141f-8344-4ba8-aab2-edd82b812cd6"
+	type: "party"
+	owner: "cab8da63-482d-30c6-ba59-213c7c5c9da7"
+	ranks: {
+		ec919fb5-9672-3627-8db9-824c13665964: "member"
+		633f8b02-463f-3e35-9b79-d4d7d52da42c: "member"
+		cab8da63-482d-30c6-ba59-213c7c5c9da7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "papus"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D7FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1748109348627L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"55maxx\"],\"color\":\"yellow\"}" }
+		{ from: "cab8da63-482d-30c6-ba59-213c7c5c9da7", date: 1748109355715L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"ElUnicoSanti\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "cab8da63-482d-30c6-ba59-213c7c5c9da7", date: 1748109355715L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"JoaCac\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1748109359573L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"JoaCac\"],\"color\":\"green\"}" }
+		{ from: "cab8da63-482d-30c6-ba59-213c7c5c9da7", date: 1748110924077L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"ElUnicoSanti\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1748110927159L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"ElUnicoSanti\"],\"color\":\"green\"}" }
+	]
+	extra: { }
+}

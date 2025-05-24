@@ -1,0 +1,15 @@
+{
+	id: "cab8da63-482d-30c6-ba59-213c7c5c9da7"
+	type: "player"
+	player_name: "55maxx"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "55maxx"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D7FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
