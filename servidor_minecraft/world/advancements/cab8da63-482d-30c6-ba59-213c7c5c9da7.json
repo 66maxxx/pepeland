@@ -6314,12 +6314,6 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-05-24 20:57:30 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-05-24 20:54:28 +0000"
@@ -6332,6 +6326,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-05-24 20:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-24 20:57:30 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/cooking/hotcream": {
     "criteria": {
       "has_any_ingredient": "2025-05-24 20:57:30 +0000"
@@ -6341,12 +6347,6 @@
   "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
       "has_lava_bucket": "2025-05-24 20:57:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-05-24 20:54:28 +0000"
     },
     "done": true
   },
